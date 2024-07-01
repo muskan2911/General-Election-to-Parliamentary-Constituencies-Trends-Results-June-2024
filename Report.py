@@ -2,7 +2,7 @@ import pandas as pd
 import glob
 
 
-path = 'C:\\Users\\ASUS\\OneDrive\\Desktop\\Kalvium Task\\Report\\csvfiles\\'
+path = 'C:\Users\Muskan\OneDrive\Desktop\Kalvium Task\CSV FILES'
 all_files = glob.glob(path + "/*.csv")
 
 dfs = []
